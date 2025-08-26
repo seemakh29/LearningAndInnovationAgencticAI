@@ -19,3 +19,10 @@ Output :
 
 
 
+React_agent.ipynb
+
+<img width="1091" height="662" alt="image" src="https://github.com/user-attachments/assets/2e759556-2521-43a4-b803-7dd41846c02e" />
+
+
+
+
