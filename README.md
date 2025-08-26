@@ -24,7 +24,14 @@ Langgraph:
    2. Easy to connect to SAP HANA Database to store data received from JIRA API.
    3. using odata or open source API its easy process to connect to JIRA API.
    4. User interface is laready present in Agentic tool.
-   5. 
+
+
+
+
+   Structured_output.py results:
+
+   <img width="1146" height="748" alt="image" src="https://github.com/user-attachments/assets/e6d5d016-bcbf-4676-bf9f-a6ed41a1a677" />
+
 
    
 
